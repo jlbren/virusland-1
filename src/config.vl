@@ -1,0 +1,7 @@
+[VELVET-FORMAT] -fasta
+[VELVET-KMER] 31
+[VELVET-READTYPE] -shortPaired
+[FAA-DIR] /home/my/path/virusLand/seqs/
+[GBK-DIR] /home/my/path/virusLand/seqs/
+[PAUDA-LOCATION] /home/my/path/pauda-1.0.1/pauda/bin
+[STOP]
